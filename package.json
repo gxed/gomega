@@ -15,15 +15,15 @@
     },
     {
       "author": "whyrusleeping",
-      "hash": "Qmaau1d1WjnQdTYfRYfFVsCS97cgD8ATyrKuNoEfexL7JZ",
+      "hash": "QmVcxhXDbXjNoAdmYBWbY1eU67kQ8eZUHjG4mAYZUtZZu3",
       "name": "go-text",
-      "version": "0.0.0"
+      "version": "0.2.0"
     },
     {
       "author": "whyrusleeping",
-      "hash": "QmTEmsyNnckEq8rEfALfdhLHjrEHGoSGFDrAYReuetn7MC",
+      "hash": "QmRvYNctevGUW52urgmoFZscT6buMKqhHezLUS64WepGWn",
       "name": "go-net",
-      "version": "0.0.0"
+      "version": "0.2.0"
     }
   ],
   "gxVersion": "0.12.1",
